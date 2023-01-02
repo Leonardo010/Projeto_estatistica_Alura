@@ -3,6 +3,7 @@
 Testar conhecimentos obtidos no curso de estatística descritiva.
 
 | :sparkles: Nome: | **Análise da PNAD 2015**
+
 | :label: Tecnologias | Jupyter Notebook
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
