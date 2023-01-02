@@ -1,6 +1,6 @@
 # Projeto Final Estatística Alura
 
-Testar conhecimentos obtidos no curso de estatística descritiva.
+Testando conhecimentos obtidos no curso de estatística descritiva.
 
 | :sparkles: Nome: | **Análise da PNAD 2015**
 
